@@ -6,11 +6,11 @@ title: Yvonna hsin
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: 雲端商務應用班
 
 # Organizations/Affiliations
 organizations:
-- name: Stanford University
+- name: 10號
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
